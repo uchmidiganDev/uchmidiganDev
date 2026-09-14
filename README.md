@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/uchmidiganDev">
-<img src="https://img.shields.io/badge/GitHub-tommysamiyyusuf--ui-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-uchmidiganDev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
