@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Telegram-@tommysamiyyusuf-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/tommysamiyyusuf-ui">
+<a href="https://github.com/uchmidiganDev">
 <img src="https://img.shields.io/badge/GitHub-tommysamiyyusuf--ui-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
